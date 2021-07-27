@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="type_note_here">type Note here</string>
+    <string name="note_subtitle">Note Subtitle</string>
+    <string name="note_title">Note Title</string>
+    <string name="search_note">search Note</string>
+    <string name="toastNote">Note can\'t be save</string>
+    <string name="noteToast">Note title can\'t be empty</string>
+</resources>
